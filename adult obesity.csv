@@ -1,4 +1,4 @@
-﻿Rank,State,Obesity %, Spending , Spending Quintile 
+﻿Rank,State,Obesity %, Spending , Spending_Quintile 
 5,Alabama,39.20%," 9,280.00 ", Second Lowest 20% 
 17,Alaska,35.20%," 13,642.00 ", Highest 20% 
 27,Arizona,31.90%," 8,756.00 ", Lowest 20% 
@@ -49,4 +49,5 @@
 31,Washington,30.60%," 9,265.00 ", Second Lowest 20% 
 1,West Virginia,41.20%," 12,769.00 ", Highest 20% 
 12,Wisconsin,35.90%," 9,982.00 ", Middle 20% 
+
 24,Wyoming,33.30%," 10,989.00 ", Second Highest 20% 
