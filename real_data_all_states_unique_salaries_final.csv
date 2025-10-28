@@ -1,0 +1,251 @@
+State,Role,Average Salary
+Alabama,Business Analyst,104802
+Alabama,Data Analyst,70390
+Alabama,Data Architect,131284
+Alabama,Data Engineer,105860
+Alabama,Data Scientist,115795
+Alaska,Business Analyst,101190
+Alaska,Data Analyst,74342
+Alaska,Data Architect,137030
+Alaska,Data Engineer,122998
+Alaska,Data Scientist,122738
+Arizona,Business Analyst,101190
+Arizona,Data Analyst,74342
+Arizona,Data Architect,137030
+Arizona,Data Engineer,122998
+Arizona,Data Scientist,122738
+Arkansas,Business Analyst,101190
+Arkansas,Data Analyst,74342
+Arkansas,Data Architect,137030
+Arkansas,Data Engineer,122998
+Arkansas,Data Scientist,122738
+California,Business Analyst,88000
+California,Data Analyst,80056
+California,Data Architect,150000
+California,Data Engineer,128018
+California,Data Scientist,121131
+Colorado,Business Analyst,101190
+Colorado,Data Analyst,74342
+Colorado,Data Architect,137030
+Colorado,Data Engineer,122998
+Colorado,Data Scientist,122738
+Connecticut,Business Analyst,96962
+Connecticut,Data Analyst,69426
+Connecticut,Data Architect,136023
+Connecticut,Data Engineer,121850
+Connecticut,Data Scientist,106265
+Delaware,Business Analyst,80311
+Delaware,Data Analyst,67433
+Delaware,Data Architect,137568
+Delaware,Data Engineer,105769
+Delaware,Data Scientist,101685
+Florida,Business Analyst,104419
+Florida,Data Analyst,71396
+Florida,Data Architect,147480
+Florida,Data Engineer,133693
+Florida,Data Scientist,119769
+Georgia,Business Analyst,77747
+Georgia,Data Analyst,83431
+Georgia,Data Architect,120189
+Georgia,Data Engineer,123942
+Georgia,Data Scientist,125658
+Hawaii,Business Analyst,101190
+Hawaii,Data Analyst,74342
+Hawaii,Data Architect,137030
+Hawaii,Data Engineer,122998
+Hawaii,Data Scientist,122738
+Idaho,Business Analyst,92912
+Idaho,Data Analyst,66267
+Idaho,Data Architect,131394
+Idaho,Data Engineer,106899
+Idaho,Data Scientist,119118
+Illinois,Business Analyst,102464
+Illinois,Data Analyst,73838
+Illinois,Data Architect,134502
+Illinois,Data Engineer,108890
+Illinois,Data Scientist,103556
+Indiana,Business Analyst,85555
+Indiana,Data Analyst,73792
+Indiana,Data Architect,128433
+Indiana,Data Engineer,115627
+Indiana,Data Scientist,121777
+Iowa,Business Analyst,98425
+Iowa,Data Analyst,67612
+Iowa,Data Architect,143483
+Iowa,Data Engineer,128897
+Iowa,Data Scientist,111016
+Kansas,Business Analyst,101531
+Kansas,Data Analyst,68152
+Kansas,Data Architect,121585
+Kansas,Data Engineer,119541
+Kansas,Data Scientist,117159
+Kentucky,Business Analyst,76021
+Kentucky,Data Analyst,84457
+Kentucky,Data Architect,131653
+Kentucky,Data Engineer,128939
+Kentucky,Data Scientist,103943
+Louisiana,Business Analyst,81873
+Louisiana,Data Analyst,77990
+Louisiana,Data Architect,125675
+Louisiana,Data Engineer,114692
+Louisiana,Data Scientist,113417
+Maine,Business Analyst,104487
+Maine,Data Analyst,65995
+Maine,Data Architect,131534
+Maine,Data Engineer,131557
+Maine,Data Scientist,100161
+Maryland,Business Analyst,99253
+Maryland,Data Analyst,66016
+Maryland,Data Architect,144276
+Maryland,Data Engineer,130851
+Maryland,Data Scientist,129127
+Massachusetts,Business Analyst,86000
+Massachusetts,Data Analyst,78750
+Massachusetts,Data Architect,145000
+Massachusetts,Data Engineer,141666
+Massachusetts,Data Scientist,134046
+Michigan,Business Analyst,92262
+Michigan,Data Analyst,73529
+Michigan,Data Architect,129268
+Michigan,Data Engineer,129300
+Michigan,Data Scientist,123247
+Minnesota,Business Analyst,83571
+Minnesota,Data Analyst,71331
+Minnesota,Data Architect,122568
+Minnesota,Data Engineer,117185
+Minnesota,Data Scientist,121271
+Mississippi,Business Analyst,80258
+Mississippi,Data Analyst,80422
+Mississippi,Data Architect,142002
+Mississippi,Data Engineer,107695
+Mississippi,Data Scientist,102027
+Missouri,Business Analyst,80892
+Missouri,Data Analyst,77666
+Missouri,Data Architect,123561
+Missouri,Data Engineer,118986
+Missouri,Data Scientist,133159
+Montana,Business Analyst,88067
+Montana,Data Analyst,73392
+Montana,Data Architect,143599
+Montana,Data Engineer,127662
+Montana,Data Scientist,126854
+Nebraska,Business Analyst,85965
+Nebraska,Data Analyst,84115
+Nebraska,Data Architect,144538
+Nebraska,Data Engineer,119039
+Nebraska,Data Scientist,111837
+Nevada,Business Analyst,83110
+Nevada,Data Analyst,79948
+Nevada,Data Architect,133773
+Nevada,Data Engineer,137482
+Nevada,Data Scientist,105056
+New Hampshire,Business Analyst,81910
+New Hampshire,Data Analyst,65502
+New Hampshire,Data Architect,145446
+New Hampshire,Data Engineer,122412
+New Hampshire,Data Scientist,127266
+New Jersey,Business Analyst,85000
+New Jersey,Data Analyst,82466
+New Jersey,Data Architect,143000
+New Jersey,Data Engineer,131693
+New Jersey,Data Scientist,124608
+New Mexico,Business Analyst,99242
+New Mexico,Data Analyst,82868
+New Mexico,Data Architect,142403
+New Mexico,Data Engineer,126518
+New Mexico,Data Scientist,100206
+New York,Business Analyst,87000
+New York,Data Analyst,77475
+New York,Data Architect,148000
+New York,Data Engineer,141914
+New York,Data Scientist,134280
+North Carolina,Business Analyst,81374
+North Carolina,Data Analyst,72574
+North Carolina,Data Architect,121678
+North Carolina,Data Engineer,119820
+North Carolina,Data Scientist,118141
+North Dakota,Business Analyst,102890
+North Dakota,Data Analyst,74914
+North Dakota,Data Architect,142299
+North Dakota,Data Engineer,121198
+North Dakota,Data Scientist,133827
+Ohio,Business Analyst,78627
+Ohio,Data Analyst,78931
+Ohio,Data Architect,145939
+Ohio,Data Engineer,134467
+Ohio,Data Scientist,102693
+Oklahoma,Business Analyst,90707
+Oklahoma,Data Analyst,75230
+Oklahoma,Data Architect,141976
+Oklahoma,Data Engineer,123047
+Oklahoma,Data Scientist,121834
+Oregon,Business Analyst,103605
+Oregon,Data Analyst,66306
+Oregon,Data Architect,126776
+Oregon,Data Engineer,135080
+Oregon,Data Scientist,123776
+Pennsylvania,Business Analyst,100285
+Pennsylvania,Data Analyst,72526
+Pennsylvania,Data Architect,141959
+Pennsylvania,Data Engineer,114474
+Pennsylvania,Data Scientist,127251
+Rhode Island,Business Analyst,88545
+Rhode Island,Data Analyst,68748
+Rhode Island,Data Architect,120663
+Rhode Island,Data Engineer,134320
+Rhode Island,Data Scientist,105530
+South Carolina,Business Analyst,78304
+South Carolina,Data Analyst,82879
+South Carolina,Data Architect,137675
+South Carolina,Data Engineer,112994
+South Carolina,Data Scientist,134766
+South Dakota,Business Analyst,95080
+South Dakota,Data Analyst,66636
+South Dakota,Data Architect,147728
+South Dakota,Data Engineer,128664
+South Dakota,Data Scientist,123938
+Tennessee,Business Analyst,89555
+Tennessee,Data Analyst,69737
+Tennessee,Data Architect,120854
+Tennessee,Data Engineer,133673
+Tennessee,Data Scientist,126736
+Texas,Business Analyst,96633
+Texas,Data Analyst,78949
+Texas,Data Architect,141556
+Texas,Data Engineer,112392
+Texas,Data Scientist,124548
+Utah,Business Analyst,94894
+Utah,Data Analyst,69931
+Utah,Data Architect,152970
+Utah,Data Engineer,126919
+Utah,Data Scientist,126309
+Vermont,Business Analyst,77327
+Vermont,Data Analyst,69389
+Vermont,Data Architect,120197
+Vermont,Data Engineer,130342
+Vermont,Data Scientist,112688
+Virginia,Business Analyst,90087
+Virginia,Data Analyst,76774
+Virginia,Data Architect,142671
+Virginia,Data Engineer,139698
+Virginia,Data Scientist,123509
+Washington,Business Analyst,89000
+Washington,Data Analyst,80018
+Washington,Data Architect,152000
+Washington,Data Engineer,146916
+Washington,Data Scientist,139013
+West Virginia,Business Analyst,95666
+West Virginia,Data Analyst,74339
+West Virginia,Data Architect,135708
+West Virginia,Data Engineer,132848
+West Virginia,Data Scientist,125184
+Wisconsin,Business Analyst,81546
+Wisconsin,Data Analyst,79243
+Wisconsin,Data Architect,154754
+Wisconsin,Data Engineer,107811
+Wisconsin,Data Scientist,126370
+Wyoming,Business Analyst,76734
+Wyoming,Data Analyst,67911
+Wyoming,Data Architect,138227
+Wyoming,Data Engineer,116411
+Wyoming,Data Scientist,130206
